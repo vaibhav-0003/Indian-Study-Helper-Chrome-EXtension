@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Sarcastic Indian Study Helper",
+    "description": "An Indian guy motivating you to study",
+    "version":"1.0",
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+    }
+}
